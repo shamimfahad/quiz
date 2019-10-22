@@ -1,1 +1,1 @@
-# just a simple quiz
+# just a simple quiz taking application in javaScript
